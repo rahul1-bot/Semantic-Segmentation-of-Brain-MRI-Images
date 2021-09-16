@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-__authors__: list[str] = ['Rahul Sawhney', 'Shubhum Garh', 'Harsh Sharma', 'Abha Malik']
+__authors__: list[str] = ['Rahul Sawhney', 'Shubham Garg', 'Harsh Sharma', 'Aabha Malik']
 
 __doc__: str = r'''
     Patent Title: BRAIN MRI SEGMENTATION FOR FLAIR ABNORMALITY DETECTION
