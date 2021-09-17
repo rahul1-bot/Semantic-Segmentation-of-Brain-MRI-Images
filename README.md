@@ -21,6 +21,14 @@
 
 ![22](https://user-images.githubusercontent.com/65220704/133679900-58b2e4fd-24c3-406d-b600-0ae7e7fb1152.PNG)
 
+## to do 
+1)  UNET 
+2)  feature pyramid network
+3)  Encoder Decoder UNET
+4)  Dice Score 
+5)  IOU Loss 
+6)  Dice Coefficient matric 
+7)  Dice Coefficent Loss
 
 ## _Dataset Link_
 https://www.kaggle.com/mateuszbuda/lgg-mri-segmentation
