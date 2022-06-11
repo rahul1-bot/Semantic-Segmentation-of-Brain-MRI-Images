@@ -13,7 +13,7 @@ __authors_email__: dict[str, str] = {
     'Rahul Sawhney': 'sawhney.rahulofficial@outlook.com',
     'Shubham Garg': 'shubgarg17@gmail.com',
     'Aabha Malik': 'aabhamalik30@gmail.com',
-    'Harsh Sharma': ''
+    'Harsh Sharma': 'sharma.harsh3107@gmail.com'
 }
 
 __authors_qualifications__: dict[str, str] = {
