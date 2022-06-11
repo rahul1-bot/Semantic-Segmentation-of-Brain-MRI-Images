@@ -1,11 +1,11 @@
 # _Semantic Segmentation of Brain MRI Images for FLAIR Abnormailty Detection_
 
 ## _Authors_
-* Rahul Sawhney <sup>1</sup>
-* Aabha Malik <sup>1</sup>
-* Shubham Garg <sup>1</sup>
-* Harsh Sharma <sup>1</sup>
-
+* Rahul Sawhney : sawhney.rahulofficial@outlook.com <sup>1</sup>
+* Aabha Malik : aabhamalik30@gmail.com <sup>1</sup>
+* Shubham Garg : shubgarg17@gmail.com <sup>1</sup>
+* Harsh Sharma : sharma.harsh3107@gmail.com <sup>1</sup>
+    
 ## _Abstract_
 Brain Tumor segmentation is an essential method in medical image processing. Early medical diagnosis of brain tumors plays an essential function in enhancing treatment possibilities and increases the survival rate of the patients. The most challenging and time taking work is the manual segmentation of the brain tumors for cancer diagnosis from large quantity of MRI images produced in scientific routine. Recently, automated segmentation utilizing deep learning techniques showed popular considering that these techniques accomplish cutting edge outcomes and resolve this issue much better than other approaches. Deep Learning techniques can likewise make it possible for effective processing and unbiased assessment of the big quantities of MRI-based image information. There are variety of existing evaluation papers, concentrating on conventional techniques for MRI-based brain tumor image segmentation. In this paper, we have used customized UNet, FPN and ResNext Unet model along with this the AdamW and AdaMax are used as optimizer. Criterion used is IOU (Intersection Over Union) and the metric utilized for evaluation is Dice Score. 
 
