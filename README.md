@@ -2,7 +2,7 @@
 
 ## _Authors_
 * Rahul Sawhney : sawhney.rahulofficial@outlook.com <sup>1</sup>
-* Aabha Malik : aabhamalik30@gmail.com <sup>1</sup>
+<sup>1</sup>
 * Shubham Garg : shubgarg17@gmail.com <sup>1</sup>
 * Harsh Sharma : sharma.harsh3107@gmail.com <sup>1</sup>
     
